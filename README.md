@@ -9,8 +9,8 @@ Talk about Microservices and Microfrontends based on the Podium microfrontend fr
 
 # Contact
 
-LinkedIn: [Link](https://www.linkedin.com/in/jacob-wasik/)
+[LinkedIn](https://www.linkedin.com/in/jacob-wasik/)
 
-GitHub: [Link](https://github.com/Eghizio)
+[GitHub](https://github.com/Eghizio)
 
 Discord: `Eghizio#3491`
