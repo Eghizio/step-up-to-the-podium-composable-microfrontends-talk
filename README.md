@@ -2,6 +2,9 @@
 
 Talk about Microservices and Microfrontends based on the Podium microfrontend framework.
 
+## Abstract
+From monoliths through microservices to microfrontends. Where are we heading with the architecture of our applications, and have we taken it too far? We’ll try to answer these questions using the Podium framework as an example, showing how it can help reshape our frontend applications 🧩
+
 # Presentation
 [Meet.js - Kraków 18.04.2024](https://docs.google.com/presentation/d/1V-9c0FXLbJOsMYUavMlZdvBO7kRtT14LFYlDSNpk5S4/edit?usp=sharing)
 
