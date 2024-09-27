@@ -17,3 +17,5 @@ From monoliths through microservices to microfrontends. Where are we heading wit
 [GitHub](https://github.com/Eghizio)
 
 Discord: `Eghizio#3491`
+
+# [🔗 Check out my other talks](https://github.com/Eghizio/talks)
